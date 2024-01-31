@@ -1,0 +1,11 @@
+/newbot
+some name
+bot_name
+/help:
+	setname
+	...
+	deletebot
+
+/setdescription
+/setuserpic
+/setabouttext
