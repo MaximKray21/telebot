@@ -1,7 +1,3 @@
-Hey! Here i'm trying to use git
-
-Don't be hard on me.
-
 some commands: 
 
 git init
